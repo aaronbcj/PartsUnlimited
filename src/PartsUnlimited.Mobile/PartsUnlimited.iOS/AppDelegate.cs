@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
 using PartsUnlimited.Views;
 using UIKit;
-
+//edited for azure devops boards
 namespace PartsUnlimited.iOS
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
